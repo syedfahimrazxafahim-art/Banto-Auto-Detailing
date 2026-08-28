@@ -1,0 +1,6 @@
+{
+  "name": "Banto Auto Detailing",
+  "description": "Los Angeles' premier luxury automotive detailing, paint correction, ceramic coating, and mobile car care service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
